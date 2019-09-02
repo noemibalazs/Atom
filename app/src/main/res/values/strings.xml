@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atom</string>
+    <string name="button_download_title">Download</string>
+    <string name="hottest_fragment_title">Hottest</string>
+    <string name="upcoming_fragment_title">Upcoming</string>
+    <string name="toast_message">Something, went wrong, try it later!</string>
+    <string name="max_temp_message">Max temperature: %d C</string>
+    <string name="min_temp_message">Min temperature: %d C</string>
+    <string name="sunrise_at_message">Sunrise at: %d</string>
+    <string name="sunset_at_message">Sunset at: %d</string>
+    <string name="chance_2_rain_message">Chance to rain: %.1f %s</string>
+    <string name="chance_percent">%</string>
+</resources>
